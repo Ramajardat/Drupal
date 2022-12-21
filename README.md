@@ -29,4 +29,4 @@ our great and beautiful and superhero team members :
 
 Deliverables
 1) Wireframe and mockup link : 
-https://www.figma.com/file/svxGVVDZU6h1pC7CL2Caj0/Untitled?node-id=0%3A1&t=jzH2GGpDVL0lWrow-1
+[Drupal.pdf](https://github.com/Ramajardat/Drupal/files/10281479/Drupal.pdf)
