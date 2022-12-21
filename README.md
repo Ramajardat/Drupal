@@ -19,7 +19,7 @@ we useed our knowledge of Drupal, such as modules, themes, regions, blocks, and 
 4- we put proper paddings and margins, especially in tables and forms.
 
 our great and beautiful and superhero team members :
-0-RAMA JARADAT (scrum master)
+0-RAMA JARADAT 
 1- malek aldesoki
 2-waad awajneh 
 3-osama aldesoki
